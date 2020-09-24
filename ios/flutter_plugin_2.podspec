@@ -3,7 +3,7 @@
 # Run `pod lib lint flutter_plugin_2.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_plugin_example_2'
+  s.name             = 'flutter_plugin_2'
   s.version          = '0.0.1'
   s.summary          = 'A new Flutter plugin 2.'
   s.description      = <<-DESC
