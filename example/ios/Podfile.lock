@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_plugin_2 (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_plugin_2 (from `.symlinks/plugins/flutter_plugin_2/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_plugin_2:
+    :path: ".symlinks/plugins/flutter_plugin_2/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_plugin_2: d9c07ce2af07f79f5da83e02938e3d2d836a0b32
+
+PODFILE CHECKSUM: f42fa49cdc7143f680653cf40c5c794811f22c46
+
+COCOAPODS: 1.9.1

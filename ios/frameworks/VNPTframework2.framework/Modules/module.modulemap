@@ -1,0 +1,11 @@
+framework module VNPTframework2 {
+  umbrella header "VNPTframework2.h"
+
+  export *
+  module * { export * }
+}
+
+module VNPTframework2.Swift {
+    header "VNPTframework2-Swift.h"
+    requires objc
+}
