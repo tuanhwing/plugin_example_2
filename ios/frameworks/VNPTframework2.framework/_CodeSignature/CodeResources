@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/VNPTframework2-Swift.h</key>
 		<data>
-		I0+kZuETllkIT7RmzEgeKpJIjS8=
+		GJ/gDImKFi7kuO2qAUYE/4kSH8M=
 		</data>
 		<key>Headers/VNPTframework2.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/VNPTframework2.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		5T4itnBK2hKkBr9T3IXM8fiEYTw=
+		ftcCyhuk42T+sYd50RhAjyD/mBo=
 		</data>
 		<key>Modules/VNPTframework2.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		5T4itnBK2hKkBr9T3IXM8fiEYTw=
+		ftcCyhuk42T+sYd50RhAjyD/mBo=
 		</data>
 		<key>Modules/VNPTframework2.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/VNPTframework2.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ixBGEBnQYFoz5VekNwYS2gFf9ME=
+		dzoURifaUv7aIYzz7SQ6XKvitLg=
 		</data>
 		<key>Modules/VNPTframework2.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/VNPTframework2.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		ixBGEBnQYFoz5VekNwYS2gFf9ME=
+		dzoURifaUv7aIYzz7SQ6XKvitLg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -46,39 +46,39 @@
 		</data>
 		<key>VNPTStoryboard2.storyboardc/Info.plist</key>
 		<data>
-		DenK5/Ocvp/AZi1wglpwe6zx9RA=
+		DiwFDRizTcHJDdjOLq5eia+ABI4=
 		</data>
 		<key>VNPTStoryboard2.storyboardc/UIViewController-xEC-25-Lhb.nib/objects-11.0+.nib</key>
 		<data>
-		aTmvb7aSVAvXA/Qh7MGaQ4NVfF8=
+		t0LMtNd5Xd+x6rs/dOneBS1kDY4=
 		</data>
 		<key>VNPTStoryboard2.storyboardc/UIViewController-xEC-25-Lhb.nib/runtime.nib</key>
 		<data>
-		gCKmhkmKB2i78pVhuyj761JArOo=
+		vwjIVGN+QbINBfIXaa6JJz4gAJ4=
 		</data>
 		<key>VNPTStoryboard2.storyboardc/lBe-p8-BpT-view-Wz5-HF-zil.nib/objects-11.0+.nib</key>
 		<data>
-		X/f27Ned3WrqO+uSYgiSUpQsIIU=
+		RGBj5if4KcOJeLneNa9fPRTVMbY=
 		</data>
 		<key>VNPTStoryboard2.storyboardc/lBe-p8-BpT-view-Wz5-HF-zil.nib/runtime.nib</key>
 		<data>
-		1kpC44gWtW9POmOd+AghqHwWMzA=
+		03dYJQ1OENgI4Gr2louYUCeUUG0=
 		</data>
 		<key>VNPTStoryboard2.storyboardc/myVCID.nib/objects-11.0+.nib</key>
 		<data>
-		Tf8nhpfAwukwbbo9CkvaqqK2dlc=
+		7P8ArFrks9DAom7V3c6FmHzF/Mo=
 		</data>
 		<key>VNPTStoryboard2.storyboardc/myVCID.nib/runtime.nib</key>
 		<data>
-		rwmkSa3lRidR8uFks0ULITTtYY0=
+		xpVi858uZ6/zIiZnM+rebU45NQM=
 		</data>
 		<key>VNPTStoryboard2.storyboardc/xEC-25-Lhb-view-MqR-uB-wBi.nib/objects-11.0+.nib</key>
 		<data>
-		whwHTZJAySz8sDOkK/BiZUnwGfU=
+		pACv1LFFvP7qtl16kl9i/8oqJmQ=
 		</data>
 		<key>VNPTStoryboard2.storyboardc/xEC-25-Lhb-view-MqR-uB-wBi.nib/runtime.nib</key>
 		<data>
-		S23PffC7ssUSbhEoN8uuNdX/KHA=
+		TxlciH4UWIjvZXz6I1If48S5Eyo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -87,11 +87,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			I0+kZuETllkIT7RmzEgeKpJIjS8=
+			GJ/gDImKFi7kuO2qAUYE/4kSH8M=
 			</data>
 			<key>hash2</key>
 			<data>
-			wwGajQsm9O1DkuV8eRIk5T5I0Zy3Asu0cIZY4de3kXw=
+			+VW3x07u/78MF8RapPp/ZBykQSs9aEfuOxSVkhUfa4M=
 			</data>
 		</dict>
 		<key>Headers/VNPTframework2.h</key>
@@ -109,22 +109,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5T4itnBK2hKkBr9T3IXM8fiEYTw=
+			ftcCyhuk42T+sYd50RhAjyD/mBo=
 			</data>
 			<key>hash2</key>
 			<data>
-			TnuPG7DnhkPF2ZF3jiAxLS/fec+GYzCz0ba+SX99Ii4=
+			03V8ljaIhK3VlVsdJWrFB5FB1AoHo8JG8NxNmODxgig=
 			</data>
 		</dict>
 		<key>Modules/VNPTframework2.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5T4itnBK2hKkBr9T3IXM8fiEYTw=
+			ftcCyhuk42T+sYd50RhAjyD/mBo=
 			</data>
 			<key>hash2</key>
 			<data>
-			TnuPG7DnhkPF2ZF3jiAxLS/fec+GYzCz0ba+SX99Ii4=
+			03V8ljaIhK3VlVsdJWrFB5FB1AoHo8JG8NxNmODxgig=
 			</data>
 		</dict>
 		<key>Modules/VNPTframework2.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -142,11 +142,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ixBGEBnQYFoz5VekNwYS2gFf9ME=
+			dzoURifaUv7aIYzz7SQ6XKvitLg=
 			</data>
 			<key>hash2</key>
 			<data>
-			oEIz5iPfa6tqh9UTNX1qtdbDKqRPNuoJUjtCQ2GzPZc=
+			K/PPLE34nMaeEWZxRcfSjQKtShD812HXS6w6KsfIlUI=
 			</data>
 		</dict>
 		<key>Modules/VNPTframework2.swiftmodule/x86_64.swiftdoc</key>
@@ -164,11 +164,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ixBGEBnQYFoz5VekNwYS2gFf9ME=
+			dzoURifaUv7aIYzz7SQ6XKvitLg=
 			</data>
 			<key>hash2</key>
 			<data>
-			oEIz5iPfa6tqh9UTNX1qtdbDKqRPNuoJUjtCQ2GzPZc=
+			K/PPLE34nMaeEWZxRcfSjQKtShD812HXS6w6KsfIlUI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -186,99 +186,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DenK5/Ocvp/AZi1wglpwe6zx9RA=
+			DiwFDRizTcHJDdjOLq5eia+ABI4=
 			</data>
 			<key>hash2</key>
 			<data>
-			11UopB0wZYXA+kQU1gLBWyWOazlUohI8/f2VmITrge4=
+			TvUHgmedK3W6HSCD0c4lNVUHVZ66IgpNUwSGZQ3/sxE=
 			</data>
 		</dict>
 		<key>VNPTStoryboard2.storyboardc/UIViewController-xEC-25-Lhb.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aTmvb7aSVAvXA/Qh7MGaQ4NVfF8=
+			t0LMtNd5Xd+x6rs/dOneBS1kDY4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ejQh15mEblm8WAHY1vS60xQGjnLPBFNdrOnr1r71PBs=
+			lk2855nkHTXVmEp3isAZIGKC4oz8pPso98SV6lupUV0=
 			</data>
 		</dict>
 		<key>VNPTStoryboard2.storyboardc/UIViewController-xEC-25-Lhb.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gCKmhkmKB2i78pVhuyj761JArOo=
+			vwjIVGN+QbINBfIXaa6JJz4gAJ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			12qkxPk2mqr5qjaFeQt8yO0D4bRE2tCBQgIdtkCuWQs=
+			bv/B3td1DXuhGFwEKnfGQS0lDVg+nsZSDikRxD3VYpo=
 			</data>
 		</dict>
 		<key>VNPTStoryboard2.storyboardc/lBe-p8-BpT-view-Wz5-HF-zil.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			X/f27Ned3WrqO+uSYgiSUpQsIIU=
+			RGBj5if4KcOJeLneNa9fPRTVMbY=
 			</data>
 			<key>hash2</key>
 			<data>
-			o5L46sHegs9CrDOcBreIkZotHXEp8Qho5sQMQMCu5fI=
+			FTIlkWZWwA5BjEvZribDn4IVBPpNEsQ9imVdF3rI0ao=
 			</data>
 		</dict>
 		<key>VNPTStoryboard2.storyboardc/lBe-p8-BpT-view-Wz5-HF-zil.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1kpC44gWtW9POmOd+AghqHwWMzA=
+			03dYJQ1OENgI4Gr2louYUCeUUG0=
 			</data>
 			<key>hash2</key>
 			<data>
-			cCU2nWMRCQHqie9HMs9aqTEifsYJSQluF8HBlLpN5mE=
+			VYyjq6k+sr92FFgclAOAosTrOgft8C0HAoOPWaYxx68=
 			</data>
 		</dict>
 		<key>VNPTStoryboard2.storyboardc/myVCID.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Tf8nhpfAwukwbbo9CkvaqqK2dlc=
+			7P8ArFrks9DAom7V3c6FmHzF/Mo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Fk2wbNZ9azbJxPmPWNlpNVjM6jY/DLiHFnhRGGupOu8=
+			2SZeLZASSFgldfbC6BeLe1rA/2tsw0Cn7ajoA3ZXofc=
 			</data>
 		</dict>
 		<key>VNPTStoryboard2.storyboardc/myVCID.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rwmkSa3lRidR8uFks0ULITTtYY0=
+			xpVi858uZ6/zIiZnM+rebU45NQM=
 			</data>
 			<key>hash2</key>
 			<data>
-			GZ/IHkXUohHcTl4T70CJnRWvdQlRkaR8BosOf+fPD0Y=
+			2GewkhGFlYKHfMl5FAzywJ6wx3nQAoCuQRrglIy/vmk=
 			</data>
 		</dict>
 		<key>VNPTStoryboard2.storyboardc/xEC-25-Lhb-view-MqR-uB-wBi.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			whwHTZJAySz8sDOkK/BiZUnwGfU=
+			pACv1LFFvP7qtl16kl9i/8oqJmQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			mZNQA1QOwcHyAJ7I/lpc6Zd2aBc7E6Psk+cfsjNpc20=
+			WcK0SSizRNXhXMMw3/vIFKm61mmgoObp86NpRBGLgHI=
 			</data>
 		</dict>
 		<key>VNPTStoryboard2.storyboardc/xEC-25-Lhb-view-MqR-uB-wBi.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			S23PffC7ssUSbhEoN8uuNdX/KHA=
+			TxlciH4UWIjvZXz6I1If48S5Eyo=
 			</data>
 			<key>hash2</key>
 			<data>
-			sU9pmIlCJ/dty2nBTT9XedFhUQ38F8n+EhLvnyrdF5Q=
+			Lo0xkEVGw47JSJvVnuDVvHwQJuGLiN19GPmiwZ81xnk=
 			</data>
 		</dict>
 	</dict>

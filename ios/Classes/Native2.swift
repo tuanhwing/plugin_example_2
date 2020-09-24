@@ -8,7 +8,7 @@
 import UIKit
 import VNPTframework2
 
-class Native2: NSObject, TextEditChangedObserver {
+class Native2: NSObject, TextEditChangedObserver2 {
     
     static let shared = Native2();
     
